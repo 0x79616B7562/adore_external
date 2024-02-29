@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "include-wgsl-oil",
+    "cast",
+    "wrld"
+]
